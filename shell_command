@@ -1,0 +1,4 @@
+var=1
+if test $var -eq 1 ; then echo "true" ; fi
+if [ $var -eq 1 ] ; then echo "true" ; fi
+
